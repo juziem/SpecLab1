@@ -1,0 +1,15 @@
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\bin\Debug\Spec1.exe.config
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\bin\Debug\Spec1.exe
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\bin\Debug\Spec1.pdb
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.csprojAssemblyReference.cache
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\MainWindow.g.cs
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\App.g.cs
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1_MarkupCompile.cache
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1_MarkupCompile.lref
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\MainWindow.baml
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.g.resources
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.Properties.Resources.resources
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.csproj.GenerateResource.cache
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.exe
+C:\Users\Mvideo\Documents\Бытие прогера\Spec1\Spec1\obj\Debug\Spec1.pdb
